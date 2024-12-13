@@ -12,7 +12,10 @@ body{
     --txt-primarry: white;
     --bg-secondary: ;
 }
-
+.golo-img {
+    width: 40%;
+    margin-left: 170px;
+}
 .logo-tittle{
     cursor: pointer;
     position: relative;
@@ -579,6 +582,11 @@ a{
          color: var(--txt-primarry);
          padding: 10px;
      }
+
+      .golo-img {
+        width: 40%;
+        margin-left: 115px;
+    }
 
     .container{
     margin-top: -70px;
